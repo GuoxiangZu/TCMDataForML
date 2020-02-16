@@ -18,6 +18,6 @@ To have more idea how to do the training, here is an example https://www.kaggle.
 2. Have the torken for the traditional Chinese medicine data text.
 
 ## Last
-Enjoy! :)
+Enjoy!  Please free to contact me by zuguoxiang@foxmail.com
 
 
