@@ -8,7 +8,7 @@ Currently the raw information comes from https://lib-nt2.hkbu.edu.hk/database/cm
 
 ### Vector representations for TCM words(unsupervised learning)
 
-Embedding vectors(GloVe vectors) as the embeddings for each traditional Chinese medicine is build. To run the shell script tch.sh, please git clone the project GloVe(https://github.com/stanfordnlp/GloVe). The file "textTCM" which contains 182 Chinese medicine prescriptions with each one in a line is the input file. The files "vocabTCM.txt" and "vectorsTCM.txt" are generated, "vectorsTCM.txt" contains vector representations for TCM words. More info about GloVe please refer to https://nlp.stanford.edu/projects/glove/
+Embedding vectors(GloVe vectors) as the embeddings for each traditional Chinese medicine is build. To run the shell script tcm.sh, please git clone the project GloVe(https://github.com/stanfordnlp/GloVe). The file "textTCM" which contains 182 Chinese medicine prescriptions with each one in a line is the input file. The files "vocabTCM.txt" and "vectorsTCM.txt" are generated, "vectorsTCM.txt" contains vector representations for TCM words. More info about GloVe please refer to https://nlp.stanford.edu/projects/glove/
 
 ### Index for TCM words
 
@@ -32,5 +32,3 @@ To get more idea how to do the training, here is an example https://www.kaggle.c
 
 ## Last
 Enjoy!  Please free to contact me by "zuguoxiang@foxmail.com" in case you are interested in this project, have any doubts, or wish to cooperate.
-
-
